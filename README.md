@@ -5,21 +5,14 @@
 First time coding learning basics for:
 HTML, CSS, Git, JavaScript
 
-- What was your motivation?
 Use basic functions for coding
-- Why did you build this project?
 Integrate different languages HTML, CSS, and JavaScript from separate files into the same web page and upload changes using Git branches that merge to the main branch after reviewing the code works as intended.
-- What problem does it solve?
 Makes a page to find notes for what we have done, and can send messages to the console in Devtools to test code.
-- What did you learn?
 Debugging. 
 Errors are good because they tell you where your issue is located.
 Order matters.
 ## Table of Contents (Optional)
-HTML
-CSS
-Git
-JavaScript
+
 
 - [Installation](#installation)
 - [Usage](#usage)
